@@ -39,10 +39,10 @@
   "prefix": "/",
   "autoSetNickname": true,
   "authorFB": "https://www.facebook.com/100071880593545",
-  "authorName": "Aminul Sardar",
+  "authorName": "FRANK DEV",
   "authorEmail": "aminulsordar04@gmail.com",
   "database": {
-    "type": "Mongodb",
+    "type": "sqlite",
     "uriMongodb": "mongodb+srv://efkidgamer:4UhVO48716BbMme7@frankdev.mqvsher.mongodb.net/?retryWrites=true&w=majority&appName=Frankdev",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
